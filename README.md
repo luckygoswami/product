@@ -10,5 +10,6 @@ update 03 in bugfix branch
 update 04 in bugfix branch
 update 05 in bugfix branch
 update 06 in bugfix branch
+update 07 in bugfix branch
 
 update new tag created v2.0.0
